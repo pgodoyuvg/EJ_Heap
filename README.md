@@ -6,4 +6,4 @@
 * Actualizar la clase para la utilización de nodos en lugar del arreglo
 * Utilizar <T> en lugar de int, manejar int solo para la prioridad
 * Actualizar los métodos getLeft/getRight/getParent
-*
+
